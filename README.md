@@ -12,5 +12,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: @webzma
 - ☕ Coffee Lover
 
-  [enlace en línea](http://www.twitter.com/webzmaDEV)
+  [Sigueme en Twitter ](http://www.twitter.com/webzmaDEV)
 
