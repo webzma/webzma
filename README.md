@@ -9,5 +9,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: @webzma
 - ☕ Coffee Lover
 
+### Actividad reciente
+
   [Sigueme en Twitter ](http://www.twitter.com/webzmaDEV)
 
