@@ -1,7 +1,7 @@
 <h1>👋 Hi! I´m Wilberk Ledezma</h1>
 
 ## 💫 About Me:
-💻Full stack Developer.<br>🦾Hard Working.<br>♥ Passionate for coding.
+💻Full stack Developer.<br>🦾Hard Working.<br>♥ Passionate for coding.<br> I wanna a cup of coffee.☕
 
 
 ## 🌐 Socials:
